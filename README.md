@@ -1,5 +1,5 @@
-# TEDCEPTE.Dorukk.Dev 1.9.0
+# TEDcepte Mobil Alpha 0.1
 
 https://tedcepte.dorukk.dev
 
-TEDcepte, TED Bodrum Koleji'nin yönetimi tarafından da desteklenen sosyal medya ağıdır.
+TEDcepte, TED Bodrum Koleji'nin yönetimi tarafından da desteklenen sosyal medya ağıdır
