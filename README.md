@@ -1,4 +1,7 @@
-# TEDcepte Mobil Alpha 0.1
+# TEDcepte Mobil Alpha 0.2
+
+Neler mi var?
+Gönderi paylaşma, Takip etme, Müzik dinleme, Mesajlaşma, Grup mesajları, Gönderi Beğenme özellikleri var.
 
 https://tedcepte.dorukk.dev
 
