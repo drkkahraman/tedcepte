@@ -5,4 +5,6 @@ Gönderi paylaşma, Takip etme, Müzik dinleme, Mesajlaşma, Grup mesajları, G�
 
 https://tedcepte.dorukk.dev
 
-TEDcepte, TED Bodrum Koleji'nin yönetimi tarafından da desteklenen sosyal medya ağıdır
+TEDcepte, TED Bodrum Koleji'nin yönetimi tarafından da desteklenen sosyal medya ağıdır.
+
+TEDcepte sunucusu 3 Temmuz 2026 Cuma günü kapatılmıştır. uygulamadaki işlevsel hiç bir şey kullanılamayacaktır.
