@@ -1,4 +1,4 @@
-# TEDcepte Mobil Alpha 0.2
+# TEDcepte Mobil Alpha 0.2 (Destek sona erdi.)
 
 Neler mi var?
 Gönderi paylaşma, Takip etme, Müzik dinleme, Mesajlaşma, Grup mesajları, Gönderi Beğenme özellikleri var.
